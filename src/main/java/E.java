@@ -4,4 +4,7 @@ public class E {
         System.out.println("monki flip");
 
     }
+    public static int hola(){
+        return 0;
+    }
 }
