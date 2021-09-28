@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class E {
     public static void main(String[] args) {
-
+        startProgram();
 
 
     }
@@ -83,8 +83,5 @@ public class E {
             System.out.println("Hola soy yo");
             System.out.println("Hola soy yo de nuevo");
         }
-    }
-    public static int hola(){
-        return 0;
     }
 }
